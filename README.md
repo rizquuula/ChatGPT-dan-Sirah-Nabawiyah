@@ -4,7 +4,8 @@ Untuk pertanyaan umum misalnya seperti keluarga Rasulullah, kapan wahyu pertama,
 
 ## a. Pertanyaan terkait berapa jumlah pasukan pada Perang Uhud.
 
-Screenshot 2023-02-01 at 11.17.34.png
+
+![image](./Screenshot 2023-02-01 at 11.17.34.png)
 
 Seharusnya berbeda, berdasarkan beberapa sumber (saya ambil contoh wikipedia) jumlahnya berbeda.
 
